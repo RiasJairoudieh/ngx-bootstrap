@@ -1,5 +1,5 @@
 {
-  "name": "ngx-bootstrap",
+  "name": "ngx-bootstrap-emma",
   "es2015": "bundles/ngx-bootstrap.es2015.js",
   "peerDependencies": {
     "@angular/core": "*",
